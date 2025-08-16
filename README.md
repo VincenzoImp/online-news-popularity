@@ -1,4 +1,4 @@
-# Predicting Online News Popularity: A Machine Learning Challenge
+# Predicting Online News Popularity
 
 ## 🎯 Project Overview
 
